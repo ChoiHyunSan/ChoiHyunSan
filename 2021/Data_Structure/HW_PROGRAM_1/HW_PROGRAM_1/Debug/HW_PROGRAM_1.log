@@ -1,0 +1,5 @@
+﻿  HW_PROGRAM_1.cpp
+C:\Users\최현산\Desktop\2021-2학기\자료구조\제출 과제\HW_PROGRAM_1\HW_PROGRAM_1\HW_PROGRAM_1.cpp(95,11): warning C4101: 'open_ch' :참조되지 않은 지역 변수입니다.
+C:\Users\최현산\Desktop\2021-2학기\자료구조\제출 과제\HW_PROGRAM_1\HW_PROGRAM_1\HW_PROGRAM_1.cpp(95,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\최현산\Desktop\2021-2학기\자료구조\제출 과제\HW_PROGRAM_1\HW_PROGRAM_1\HW_PROGRAM_1.cpp(88): warning C4715: 'matching': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW_PROGRAM_1.vcxproj -> C:\Users\최현산\Desktop\2021-2학기\자료구조\제출 과제\HW_PROGRAM_1\Debug\HW_PROGRAM_1.exe
